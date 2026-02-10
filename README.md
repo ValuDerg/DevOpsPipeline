@@ -14,3 +14,5 @@ Java WebApp mit CI/CD Pipeline auf Raspberry Pi 5.
 
 ## Pipeline Flow
 Push → GitHub → Jenkins → Build → Test → Deploy → Tomcat
+
+## Test
